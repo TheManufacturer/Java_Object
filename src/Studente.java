@@ -33,6 +33,7 @@ public class Studente {
         this.id = id;
     }
 
+
     @Override
     public String toString() {
         return "Studente{" +
@@ -42,4 +43,3 @@ public class Studente {
                 '}';
     }
 }
-
